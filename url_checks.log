@@ -1,0 +1,42 @@
+2025-02-24 22:01:47,736 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-24 22:01:47,737 - [33mPress CTRL+C to quit[0m
+2025-02-24 22:01:47,742 -  * Restarting with stat
+2025-02-24 22:01:54,304 -  * Debugger is active!
+2025-02-24 22:01:54,312 -  * Debugger PIN: 524-483-230
+2025-02-24 22:03:06,742 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-24 22:03:06,744 - [33mPress CTRL+C to quit[0m
+2025-02-24 22:03:06,749 -  * Restarting with stat
+2025-02-24 22:03:12,698 -  * Debugger is active!
+2025-02-24 22:03:12,708 -  * Debugger PIN: 524-483-230
+2025-02-24 22:10:27,455 -  * Detected change in 'c:\\Users\\abhij\\OneDrive\\Desktop\\html\\threadscope\\track.py', reloading
+2025-02-24 22:10:28,177 -  * Restarting with stat
+2025-02-24 22:10:28,228 -  * Detected change in 'c:\\Users\\abhij\\OneDrive\\Desktop\\html\\threadscope\\track.py', reloading
+2025-02-24 22:10:28,780 -  * Restarting with stat
+2025-02-24 22:10:34,469 -  * Debugger is active!
+2025-02-24 22:10:34,479 -  * Debugger PIN: 524-483-230
+2025-02-24 22:10:34,735 -  * Debugger is active!
+2025-02-24 22:10:34,748 -  * Debugger PIN: 524-483-230
+2025-02-24 22:10:44,775 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-24 22:10:44,776 - [33mPress CTRL+C to quit[0m
+2025-02-24 22:10:44,780 -  * Restarting with stat
+2025-02-24 22:10:50,901 -  * Debugger is active!
+2025-02-24 22:10:50,911 -  * Debugger PIN: 524-483-230
+2025-02-24 22:14:51,987 -  * Detected change in 'c:\\Users\\abhij\\OneDrive\\Desktop\\html\\threadscope\\track.py', reloading
+2025-02-24 22:14:51,999 -  * Detected change in 'c:\\Users\\abhij\\OneDrive\\Desktop\\html\\threadscope\\track.py', reloading
+2025-02-24 22:14:52,049 -  * Detected change in 'c:\\Users\\abhij\\OneDrive\\Desktop\\html\\threadscope\\track.py', reloading
+2025-02-24 22:14:52,590 -  * Restarting with stat
+2025-02-24 22:14:52,590 -  * Restarting with stat
+2025-02-24 22:14:52,613 -  * Restarting with stat
+2025-02-24 22:16:54,518 -  * Restarting with stat
+2025-02-24 22:16:54,522 -  * Restarting with stat
+2025-02-24 22:19:03,694 -  * Restarting with stat
+2025-02-24 22:19:03,694 -  * Restarting with stat
+2025-02-24 22:20:34,202 -  * Restarting with stat
+2025-02-24 22:20:34,202 -  * Restarting with stat
+2025-02-24 22:21:11,504 -  * Restarting with stat
+2025-02-24 22:21:11,515 -  * Restarting with stat
+2025-02-24 22:24:05,461 -  * Restarting with stat
+2025-02-24 22:24:05,474 -  * Restarting with stat

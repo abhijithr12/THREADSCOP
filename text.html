@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Malicious URL Checker</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #121212;
+            color: white;
+            text-align: center;
+        }
+        .container {
+            margin: 50px auto;
+            width: 50%;
+            background: #1c1c1c;
+            padding: 20px;
+            border-radius: 10px;
+        }
+        input, button {
+            width: 90%;
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 5px;
+            border: none;
+            font-size: 16px;
+        }
+        button {
+            background: #0d47a1;
+            color: white;
+            cursor: pointer;
+        }
+        button:hover {
+            background: #1565c0;
+        }
+        .results {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Malicious URL Checker</h1>
+        <form method="POST" enctype="multipart/form-data">
+            <input type="text" name="url" placeholder="Enter URL" required><br>
+            <input type="file" name="file" accept=".txt"><br>
+            <button type="submit">Check URL</button>
+        </form>
+
+        <div class="results">
+            {% if results %}
+                <h2>Results:</h2>
+                <ul>
+                    {% for result in results %}
+                        <li>{{ result }}</li>
+                    {% endfor %}
+                </ul>
+            {% endif %}
+        </div>
+    </div>
+</body>
+</html>
